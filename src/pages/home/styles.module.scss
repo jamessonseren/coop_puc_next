@@ -1,0 +1,18 @@
+.homeMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 0 15px;
+    
+
+    h1{
+        margin: 9rem 0 2rem 0;
+    }
+    p{
+        padding-top: 25px;
+        font-size: 1.5rem;
+    }
+}
+
